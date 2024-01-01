@@ -10,3 +10,4 @@ git pull # отправляет на сервер
 
 git push # скачивает с сервера
 
+ssh -T git@github.com
