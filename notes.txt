@@ -1,1 +1,10 @@
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+git add * #добавляет все файлы в папке
+
+ git status #проверяет текущий статус 
+
+git commit # фиксируе изменения
+
+git pull # отправляет на сервер
+
